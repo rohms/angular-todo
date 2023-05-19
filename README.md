@@ -1,5 +1,8 @@
 # AngularApp
 
+
+![angulartracker](https://github.com/rohms/angular-todo/assets/86847314/78d6d358-48e1-4a76-b424-6d644e5f2fd7)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
 
 ## Development server
